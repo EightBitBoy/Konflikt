@@ -4,4 +4,4 @@
 *.settings
 *.dll
 /konflikt/target
-/konflikt/jmonkey
+/konflikt/lib
